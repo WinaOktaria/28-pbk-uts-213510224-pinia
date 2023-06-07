@@ -1,0 +1,8 @@
+{
+    "todos": [
+      { "id": 0, "text": "Tugas Pertemuan 1 PBK", "done": true },
+      { "id": 1, "text": "Tugas Pertemuan 2 PBO", "done": true },
+      { "id": 2, "text": "Tugas Pertemuan 1 Matematika Diskrit", "done": false }
+    ]
+  }
+  
